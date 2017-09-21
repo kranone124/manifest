@@ -20,6 +20,10 @@
            fetch="https://github.com/VertexOS"
            revision="n" />
 
+   <remote  name="kranone124" 
+           fetch="https://github.com/kranone124"
+           revision="n" />
+  
  <default revision="refs/tags/LA.UM.5.8.r1-02700-8x98.0"
            remote="caf"
            sync-j="8"
